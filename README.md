@@ -1,6 +1,12 @@
 ### Hi there 👋
 ### Buenas,buenas 👋
-### 🌱 I’m currently learning Angular
+### 🌱 I’m currently MinTIC 2022 - UCaldas Alumni.
+### 🌱 I’m currently Learning Oracle One - Becoming OracleOne Alumni.
+
+
+
+
+
 <!--
 **AndresBaeza/AndresBaeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
