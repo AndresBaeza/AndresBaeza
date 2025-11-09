@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Buenas,buenas 👋
-### 🌱 I’m currently MinTIC 2022 - UCaldas Alumni.
-### 🌱 I’m currently Learning Oracle One - Becoming OracleOne Alumni.
+### 🌱 I’m System Networks Manager.
+### 🌱 I’m Software Analysis and Development Programmer.
 
 
 
