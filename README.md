@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Buenas,buenas 👋
+### Buenas, buenas 👋
 ### 🌱 I’m System Networks Manager.
 ### 🌱 I’m Software Analysis and Development Programmer.
 
