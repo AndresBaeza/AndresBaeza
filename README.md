@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Buenas, buenas 👋
-### 🌱 I’m System Networks Manager.
-### 🌱 I’m Software Analysis and Development Programmer.
+### 🌱 I am System Networks Manager.
+### 🌱 I am a Software Analyst Developer.
 
 
 
